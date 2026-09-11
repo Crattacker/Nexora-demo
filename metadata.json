@@ -1,0 +1,6 @@
+{
+  "name": "Nexora - Assamese Ethnic Wear",
+  "description": "Luxury e-commerce storefront for authentic Assamese ethnic wear, featuring pure Muga silk, Paat sarees, Mekhela Sador, handwoven Riha, and Eri silk jackets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
